@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr10.PointInCircleOutOfRectangle\bin\Debug\Pr10.PointInCircleOutOfRectangle.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr10.PointInCircleOutOfRectangle\bin\Debug\Pr10.PointInCircleOutOfRectangle.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr10.PointInCircleOutOfRectangle\bin\Debug\Pr10.PointInCircleOutOfRectangle.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr10.PointInCircleOutOfRectangle\obj\Debug\Pr10.PointInCircleOutOfRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr10.PointInCircleOutOfRectangle\obj\Debug\Pr10.PointInCircleOutOfRectangle.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr10.PointInCircleOutOfRectangle\obj\Debug\Pr10.PointInCircleOutOfRectangle.pdb

@@ -1,0 +1,9 @@
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\HomeWork1\obj\Debug\04.HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr02.MoonGravitation\bin\Debug\Pr02.MoonGravitation.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr02.MoonGravitation\bin\Debug\Pr02.MoonGravitation.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr02.MoonGravitation\bin\Debug\Pr02.MoonGravitation.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr02.MoonGravitation\obj\Debug\Pr02.MoonGravitation.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr02.MoonGravitation\obj\Debug\Pr02.MoonGravitation.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr02.MoonGravitation\obj\Debug\Pr02.MoonGravitation.csprojResolveAssemblyReference.cache

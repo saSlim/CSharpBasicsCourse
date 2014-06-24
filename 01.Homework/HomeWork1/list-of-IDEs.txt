@@ -1,0 +1,27 @@
+Problem 12. Development Environments
+
+	Visual Studio:
+Visual Studio Online is the fastest and easiest way yet to plan, build, and ship software across a variety of platforms. With Visual Studio Online, you can set up an environment for you or your team that includes everything from hosted Git repositories and project tracking tools, to continuous integration and an IDE, all packaged up in simple monthly plans. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server.
+
+
+	Eclipse:
+Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+	XCode:
+Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software for OS X and iOS. First released in 2003, the latest stable release is version 5.1 and is available via the Mac App Store free of charge for Mac OS X Lion and OS X Mountain Lion users.[1]
+
+
+	NetBeans:
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+The NetBeans Platform allows applications to be developed from a set of modular software components called modules. Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers
+
+
+	Padre:
+Padre (short for "Perl Application Development and Refactoring Environment") is a multi-language software development platform comprising an IDE and a plug-in system to extend it. It is written primarily in Perl and is used to develop applications in this language.
+Padre is written in Perl 5 but can be extended by any language running on top of the Parrot virtual machine, such as Perl 6, through its plug-in system and its integration with Parrot. The development officially started in June 2008 but Padre has reused components that have been available on CPAN. Most importantly, it uses the Perl bindings of wxWidgets for the windowing system, and PPI to correctly parse and highlight Perl and to allow refactoring. The primary advantages of Padre for Perl developers is that full and easy access to the source code of their editor is available, and a unique set of "Perl intuition" features that allow the IDE to understand details about project structure and content without needing to be told by the user.
+
+	SharpDevelop:
+SharpDevelop (also styled as #develop) is a free and open source integrated development environment (IDE) for the .NET Framework, Mono, Gtk# and Glade# platforms. It supports development in C#, Visual Basic .NET, Boo, F#, IronPython and IronRuby programming languages.
+
+It was designed as a free and lightweight alternative to Microsoft Visual Studio, and contains an equivalent feature for almost every essential Visual Studio Express feature, including features for project management, code editing, application compiling and debugging. To allow for easy project migration, SharpDevelop works natively with Visual Studio project and code files. It is able to compile applications for .NET Framework version 2.0, 3.0, 3.5, 4.0 and the .NET Compact Framework 2.0 and 3.5.

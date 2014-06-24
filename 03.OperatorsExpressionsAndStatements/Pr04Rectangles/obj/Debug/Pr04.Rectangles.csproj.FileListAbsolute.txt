@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr04Rectangles\bin\Debug\Pr04Rectangles.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr04Rectangles\bin\Debug\Pr04Rectangles.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr04Rectangles\bin\Debug\Pr04Rectangles.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr04Rectangles\obj\Debug\Pr04Rectangles.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr04Rectangles\obj\Debug\Pr04Rectangles.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr04Rectangles\obj\Debug\Pr04.Rectangles.csprojResolveAssemblyReference.cache

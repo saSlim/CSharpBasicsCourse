@@ -1,0 +1,12 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr03VarInHexFormat\bin\Debug\Pr03VarInHexFormat.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr03VarInHexFormat\bin\Debug\Pr03VarInHexFormat.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr03VarInHexFormat\bin\Debug\Pr03VarInHexFormat.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr03VarInHexFormat\obj\Debug\Pr03VarInHexFormat.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr03VarInHexFormat\obj\Debug\Pr03VarInHexFormat.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr03VarInHexFormat\obj\Debug\Pr03VarInHexFormat.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr03VarInHexFormat\bin\Debug\Pr03VarInHexFormat.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr03VarInHexFormat\bin\Debug\Pr03VarInHexFormat.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr03VarInHexFormat\bin\Debug\Pr03VarInHexFormat.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr03VarInHexFormat\obj\Debug\Pr03VarInHexFormat.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr03VarInHexFormat\obj\Debug\Pr03VarInHexFormat.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr03VarInHexFormat\obj\Debug\Pr03VarInHexFormat.pdb

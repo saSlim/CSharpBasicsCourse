@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr14.ModifyBitAtPosition\bin\Debug\Pr14.ModifyBitAtPosition.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr14.ModifyBitAtPosition\bin\Debug\Pr14.ModifyBitAtPosition.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr14.ModifyBitAtPosition\bin\Debug\Pr14.ModifyBitAtPosition.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr14.ModifyBitAtPosition\obj\Debug\Pr14.ModifyBitAtPosition.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr14.ModifyBitAtPosition\obj\Debug\Pr14.ModifyBitAtPosition.pdb

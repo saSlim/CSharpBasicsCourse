@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr11.BitwiseNum3\bin\Debug\Pr11.BitwiseNum3.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr11.BitwiseNum3\bin\Debug\Pr11.BitwiseNum3.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr11.BitwiseNum3\bin\Debug\Pr11.BitwiseNum3.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr11.BitwiseNum3\obj\Debug\Pr11.BitwiseExtractNum3.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr11.BitwiseNum3\obj\Debug\Pr11.BitwiseNum3.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr11.BitwiseNum3\obj\Debug\Pr11.BitwiseNum3.pdb

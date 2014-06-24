@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr08IsoscalesTriangle\bin\Debug\Pr08IsoscalesTriangle.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr08IsoscalesTriangle\bin\Debug\Pr08IsoscalesTriangle.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr08IsoscalesTriangle\bin\Debug\Pr08IsoscalesTriangle.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr08IsoscalesTriangle\obj\Debug\Pr08IsoscalesTriangle.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr08IsoscalesTriangle\obj\Debug\Pr08IsoscalesTriangle.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr08IsoscalesTriangle\bin\Debug\Pr08IsoscalesTriangle.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr08IsoscalesTriangle\bin\Debug\Pr08IsoscalesTriangle.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr08IsoscalesTriangle\bin\Debug\Pr08IsoscalesTriangle.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr08IsoscalesTriangle\obj\Debug\Pr08IsoscalesTriangle.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr08IsoscalesTriangle\obj\Debug\Pr08IsoscalesTriangle.pdb

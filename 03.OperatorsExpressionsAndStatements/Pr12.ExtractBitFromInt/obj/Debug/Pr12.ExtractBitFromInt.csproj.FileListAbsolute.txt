@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr12.ExtractBitFromInt\bin\Debug\Pr12.ExtractBitFromInt.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr12.ExtractBitFromInt\bin\Debug\Pr12.ExtractBitFromInt.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr12.ExtractBitFromInt\bin\Debug\Pr12.ExtractBitFromInt.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr12.ExtractBitFromInt\obj\Debug\Pr12.ExtractBitFromInt.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr12.ExtractBitFromInt\obj\Debug\Pr12.ExtractBitFromInt.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr12.ExtractBitFromInt\obj\Debug\Pr12.ExtractBitFromInt.csprojResolveAssemblyReference.cache

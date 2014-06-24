@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\17.PrintLongSequence\bin\Debug\17.PrintLongSequence.exe.config
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\17.PrintLongSequence\bin\Debug\17.PrintLongSequence.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\17.PrintLongSequence\bin\Debug\17.PrintLongSequence.pdb
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\17.PrintLongSequence\obj\Debug\17.PrintLongSequence.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\17.PrintLongSequence\obj\Debug\17.PrintLongSequence.pdb
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\17.PrintLongSequence\bin\Debug\17.PrintLongSequence.exe.config
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\17.PrintLongSequence\obj\Debug\17.PrintLongSequence.exe
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\17.PrintLongSequence\obj\Debug\17.PrintLongSequence.pdb
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\17.PrintLongSequence\bin\Debug\17.PrintLongSequence.exe
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\17.PrintLongSequence\bin\Debug\17.PrintLongSequence.pdb

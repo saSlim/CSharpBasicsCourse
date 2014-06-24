@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr09.Trapezoid\bin\Debug\Pr09.Trapezoid.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr09.Trapezoid\bin\Debug\Pr09.Trapezoid.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr09.Trapezoid\bin\Debug\Pr09.Trapezoid.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr09.Trapezoid\obj\Debug\Pr09.Trapezoid.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr09.Trapezoid\obj\Debug\Pr09.Trapezoid.pdb

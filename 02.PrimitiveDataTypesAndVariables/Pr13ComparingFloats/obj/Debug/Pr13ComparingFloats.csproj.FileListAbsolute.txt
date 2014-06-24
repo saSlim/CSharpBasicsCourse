@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr13ComparingFloats\bin\Debug\Pr13ComparingFloats.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr13ComparingFloats\bin\Debug\Pr13ComparingFloats.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr13ComparingFloats\bin\Debug\Pr13ComparingFloats.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr13ComparingFloats\obj\Debug\Pr13ComparingFloats.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr13ComparingFloats\obj\Debug\Pr13ComparingFloats.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr13ComparingFloats\bin\Debug\Pr13ComparingFloats.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr13ComparingFloats\obj\Debug\Pr13ComparingFloats.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr13ComparingFloats\obj\Debug\Pr13ComparingFloats.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr13ComparingFloats\bin\Debug\Pr13ComparingFloats.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr13ComparingFloats\bin\Debug\Pr13ComparingFloats.pdb

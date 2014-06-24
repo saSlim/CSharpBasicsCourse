@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr06StringsAndObjects\bin\Debug\Pr06StringsAndObjects.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr06StringsAndObjects\bin\Debug\Pr06StringsAndObjects.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr06StringsAndObjects\bin\Debug\Pr06StringsAndObjects.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr06StringsAndObjects\obj\Debug\Pr06StringsAndObjects.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr06StringsAndObjects\obj\Debug\Pr06StringsAndObjects.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr06StringsAndObjects\bin\Debug\Pr06StringsAndObjects.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr06StringsAndObjects\bin\Debug\Pr06StringsAndObjects.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr06StringsAndObjects\bin\Debug\Pr06StringsAndObjects.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr06StringsAndObjects\obj\Debug\Pr06StringsAndObjects.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr06StringsAndObjects\obj\Debug\Pr06StringsAndObjects.pdb

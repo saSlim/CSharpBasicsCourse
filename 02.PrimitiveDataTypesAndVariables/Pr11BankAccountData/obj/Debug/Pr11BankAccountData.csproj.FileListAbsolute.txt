@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr11BankAccountData\bin\Debug\Pr11BankAccountData.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr11BankAccountData\bin\Debug\Pr11BankAccountData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr11BankAccountData\bin\Debug\Pr11BankAccountData.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr11BankAccountData\obj\Debug\Pr11BankAccountData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr11BankAccountData\obj\Debug\Pr11BankAccountData.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr11BankAccountData\bin\Debug\Pr11BankAccountData.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr11BankAccountData\bin\Debug\Pr11BankAccountData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr11BankAccountData\bin\Debug\Pr11BankAccountData.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr11BankAccountData\obj\Debug\Pr11BankAccountData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr11BankAccountData\obj\Debug\Pr11BankAccountData.pdb

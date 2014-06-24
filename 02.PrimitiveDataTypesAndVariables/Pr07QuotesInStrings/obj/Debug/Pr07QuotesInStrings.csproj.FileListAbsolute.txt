@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr07QuotesInStrings\bin\Debug\Pr07QuotesInStrings.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr07QuotesInStrings\bin\Debug\Pr07QuotesInStrings.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr07QuotesInStrings\bin\Debug\Pr07QuotesInStrings.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr07QuotesInStrings\obj\Debug\Pr07QuotesInStrings.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr07QuotesInStrings\obj\Debug\Pr07QuotesInStrings.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr07QuotesInStrings\bin\Debug\Pr07QuotesInStrings.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr07QuotesInStrings\bin\Debug\Pr07QuotesInStrings.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr07QuotesInStrings\bin\Debug\Pr07QuotesInStrings.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr07QuotesInStrings\obj\Debug\Pr07QuotesInStrings.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr07QuotesInStrings\obj\Debug\Pr07QuotesInStrings.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr12NullValueArithmetics\bin\Debug\Pr12NullValueArithmetics.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr12NullValueArithmetics\bin\Debug\Pr12NullValueArithmetics.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr12NullValueArithmetics\bin\Debug\Pr12NullValueArithmetics.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr12NullValueArithmetics\obj\Debug\Pr12NullValueArithmetics.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr12NullValueArithmetics\obj\Debug\Pr12NullValueArithmetics.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr12NullValueArithmetics\bin\Debug\Pr12NullValueArithmetics.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr12NullValueArithmetics\bin\Debug\Pr12NullValueArithmetics.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr12NullValueArithmetics\bin\Debug\Pr12NullValueArithmetics.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr12NullValueArithmetics\obj\Debug\Pr12NullValueArithmetics.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr12NullValueArithmetics\obj\Debug\Pr12NullValueArithmetics.pdb

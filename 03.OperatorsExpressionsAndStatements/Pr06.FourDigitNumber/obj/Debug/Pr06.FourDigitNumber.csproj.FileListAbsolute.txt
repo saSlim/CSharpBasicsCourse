@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr06.FourDigitNumber\bin\Debug\Pr06.FourDigitNumber.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr06.FourDigitNumber\bin\Debug\Pr06.FourDigitNumber.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr06.FourDigitNumber\bin\Debug\Pr06.FourDigitNumber.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr06.FourDigitNumber\obj\Debug\Pr06.FourDigitNumber.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr06.FourDigitNumber\obj\Debug\Pr06.FourDigitNumber.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr06.FourDigitNumber\obj\Debug\Pr06.FourDigitNumber.csprojResolveAssemblyReference.cache

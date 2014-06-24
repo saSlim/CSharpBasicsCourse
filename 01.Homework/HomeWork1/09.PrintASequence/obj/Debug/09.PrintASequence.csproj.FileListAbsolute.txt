@@ -1,0 +1,11 @@
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\09.PrintASequence\bin\Debug\09.PrintASequence.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\09.PrintASequence\bin\Debug\09.PrintASequence.pdb
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\09.PrintASequence\obj\Debug\09.PrintASequence.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\09.PrintASequence\obj\Debug\09.PrintASequence.pdb
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\09.PrintASequence\obj\Debug\09.PrintASequence.exe
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\09.PrintASequence\obj\Debug\09.PrintASequence.pdb
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\09.PrintASequence\bin\Debug\09.PrintASequence.exe
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\09.PrintASequence\bin\Debug\09.PrintASequence.pdb
+C:\Users\Kris\Desktop\01.Homework\HomeWork1\09.PrintASequence\obj\Debug\09.PrintASequence.csprojResolveAssemblyReference.cache

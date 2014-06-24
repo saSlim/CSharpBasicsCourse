@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe.config
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.pdb
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.pdb

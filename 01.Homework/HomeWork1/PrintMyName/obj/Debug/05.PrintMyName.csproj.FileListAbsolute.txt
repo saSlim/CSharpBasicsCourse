@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\PrintMyName\obj\Debug\PrintMyName.pdb

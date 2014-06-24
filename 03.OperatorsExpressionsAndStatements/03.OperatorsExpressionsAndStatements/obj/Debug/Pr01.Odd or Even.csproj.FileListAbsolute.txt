@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\03.OperatorsExpressionsAndStatements\bin\Debug\03.OperatorsExpressionsAndStatements.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\03.OperatorsExpressionsAndStatements\bin\Debug\03.OperatorsExpressionsAndStatements.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\03.OperatorsExpressionsAndStatements\bin\Debug\03.OperatorsExpressionsAndStatements.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\03.OperatorsExpressionsAndStatements\obj\Debug\Pr01.Odd or Even.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\03.OperatorsExpressionsAndStatements\obj\Debug\03.OperatorsExpressionsAndStatements.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\03.OperatorsExpressionsAndStatements\obj\Debug\03.OperatorsExpressionsAndStatements.pdb

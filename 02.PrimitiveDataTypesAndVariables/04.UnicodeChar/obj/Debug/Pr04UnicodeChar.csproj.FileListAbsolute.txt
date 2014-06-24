@@ -1,0 +1,12 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\04.UnicodeChar\obj\Debug\Pr04UnicodeChar.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\04.UnicodeChar\bin\Debug\Pr04UnicodeChar.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\04.UnicodeChar\bin\Debug\Pr04UnicodeChar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\04.UnicodeChar\bin\Debug\Pr04UnicodeChar.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\04.UnicodeChar\obj\Debug\Pr04UnicodeChar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\04.UnicodeChar\obj\Debug\Pr04UnicodeChar.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\04.UnicodeChar\bin\Debug\Pr04UnicodeChar.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\04.UnicodeChar\bin\Debug\Pr04UnicodeChar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\04.UnicodeChar\bin\Debug\Pr04UnicodeChar.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\04.UnicodeChar\obj\Debug\Pr04UnicodeChar.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\04.UnicodeChar\obj\Debug\Pr04UnicodeChar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\04.UnicodeChar\obj\Debug\Pr04UnicodeChar.pdb

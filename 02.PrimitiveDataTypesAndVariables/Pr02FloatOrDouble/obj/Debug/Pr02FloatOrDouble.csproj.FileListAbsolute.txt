@@ -1,0 +1,12 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr02FloatOrDouble\bin\Debug\Pr02FloatOrDouble.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr02FloatOrDouble\bin\Debug\Pr02FloatOrDouble.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr02FloatOrDouble\bin\Debug\Pr02FloatOrDouble.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr02FloatOrDouble\obj\Debug\Pr02FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr02FloatOrDouble\obj\Debug\Pr02FloatOrDouble.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr02FloatOrDouble\obj\Debug\Pr02FloatOrDouble.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr02FloatOrDouble\bin\Debug\Pr02FloatOrDouble.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr02FloatOrDouble\obj\Debug\Pr02FloatOrDouble.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr02FloatOrDouble\obj\Debug\Pr02FloatOrDouble.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr02FloatOrDouble\bin\Debug\Pr02FloatOrDouble.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr02FloatOrDouble\bin\Debug\Pr02FloatOrDouble.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr02FloatOrDouble\obj\Debug\Pr02FloatOrDouble.csprojResolveAssemblyReference.cache

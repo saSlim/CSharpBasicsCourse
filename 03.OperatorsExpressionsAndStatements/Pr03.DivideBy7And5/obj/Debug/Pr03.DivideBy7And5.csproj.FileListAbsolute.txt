@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr03.DivideBy7And5\bin\Debug\Pr03.DivideBy7And5.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr03.DivideBy7And5\bin\Debug\Pr03.DivideBy7And5.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr03.DivideBy7And5\bin\Debug\Pr03.DivideBy7And5.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr03.DivideBy7And5\obj\Debug\Pr03.DivideBy7And5.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr03.DivideBy7And5\obj\Debug\Pr03.DivideBy7And5.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr03.DivideBy7And5\obj\Debug\Pr03.DivideBy7And5.csprojResolveAssemblyReference.cache

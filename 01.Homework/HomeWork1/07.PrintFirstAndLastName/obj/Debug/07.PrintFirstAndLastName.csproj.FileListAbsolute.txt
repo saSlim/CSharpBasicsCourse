@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

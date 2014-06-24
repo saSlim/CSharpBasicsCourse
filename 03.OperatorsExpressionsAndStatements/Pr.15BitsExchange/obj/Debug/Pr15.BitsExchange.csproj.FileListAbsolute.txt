@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr.15BitsExchange\bin\Debug\Pr.15BitsExchange.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr.15BitsExchange\obj\Debug\Pr15.BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr.15BitsExchange\bin\Debug\Pr.15BitsExchange.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr.15BitsExchange\bin\Debug\Pr.15BitsExchange.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr.15BitsExchange\obj\Debug\Pr.15BitsExchange.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr.15BitsExchange\obj\Debug\Pr.15BitsExchange.pdb

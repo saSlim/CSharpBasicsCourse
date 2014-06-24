@@ -1,0 +1,12 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\02.HomeWork\bin\Debug\02.HomeWork.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\02.HomeWork\bin\Debug\02.HomeWork.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\02.HomeWork\bin\Debug\02.HomeWork.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\02.HomeWork\obj\Debug\Pr01DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\02.HomeWork\obj\Debug\02.HomeWork.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\02.HomeWork\obj\Debug\02.HomeWork.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\02.HomeWork\bin\Debug\02.HomeWork.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\02.HomeWork\obj\Debug\02.HomeWork.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\02.HomeWork\obj\Debug\02.HomeWork.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\02.HomeWork\bin\Debug\02.HomeWork.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\02.HomeWork\bin\Debug\02.HomeWork.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\02.HomeWork\obj\Debug\Pr01DeclareVariables.csprojResolveAssemblyReference.cache

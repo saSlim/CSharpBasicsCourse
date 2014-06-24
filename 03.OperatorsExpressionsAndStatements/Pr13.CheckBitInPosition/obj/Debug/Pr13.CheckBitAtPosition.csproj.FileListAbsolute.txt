@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr13.CheckBitInPosition\bin\Debug\Pr13.CheckBitInPosition.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr13.CheckBitInPosition\bin\Debug\Pr13.CheckBitInPosition.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr13.CheckBitInPosition\bin\Debug\Pr13.CheckBitInPosition.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr13.CheckBitInPosition\obj\Debug\Pr13.CheckBitInPosition.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr13.CheckBitInPosition\obj\Debug\Pr13.CheckBitInPosition.pdb

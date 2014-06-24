@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\15.AgeIn10Years\bin\Debug\15.AgeIn10Years.exe.config
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\15.AgeIn10Years\bin\Debug\15.AgeIn10Years.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\15.AgeIn10Years\bin\Debug\15.AgeIn10Years.pdb
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\15.AgeIn10Years\obj\Debug\15.AgeIn10Years.exe
+C:\Users\Kris\Desktop\CSharpBasics\HomeWork1\15.AgeIn10Years\obj\Debug\15.AgeIn10Years.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr07.PointInCircle\bin\Debug\Pr07.PointInCircle.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr07.PointInCircle\bin\Debug\Pr07.PointInCircle.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr07.PointInCircle\bin\Debug\Pr07.PointInCircle.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr07.PointInCircle\obj\Debug\Pr07.PointInCircle.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr07.PointInCircle\obj\Debug\Pr07.PointInCircle.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr07.PointInCircle\obj\Debug\Pr07.PointInCircle.csprojResolveAssemblyReference.cache

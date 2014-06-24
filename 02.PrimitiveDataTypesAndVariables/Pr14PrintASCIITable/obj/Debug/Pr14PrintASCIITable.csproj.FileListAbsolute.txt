@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr14PrintASCIITable\bin\Debug\Pr14PrintASCIITable.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr14PrintASCIITable\bin\Debug\Pr14PrintASCIITable.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr14PrintASCIITable\bin\Debug\Pr14PrintASCIITable.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr14PrintASCIITable\obj\Debug\Pr14PrintASCIITable.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr14PrintASCIITable\obj\Debug\Pr14PrintASCIITable.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr14PrintASCIITable\bin\Debug\Pr14PrintASCIITable.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr14PrintASCIITable\bin\Debug\Pr14PrintASCIITable.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr14PrintASCIITable\bin\Debug\Pr14PrintASCIITable.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr14PrintASCIITable\obj\Debug\Pr14PrintASCIITable.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr14PrintASCIITable\obj\Debug\Pr14PrintASCIITable.pdb

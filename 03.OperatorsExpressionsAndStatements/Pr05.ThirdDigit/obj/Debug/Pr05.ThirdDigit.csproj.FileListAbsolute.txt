@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr05.ThirdDigit\bin\Debug\Pr05.ThirdDigit.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr05.ThirdDigit\bin\Debug\Pr05.ThirdDigit.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr05.ThirdDigit\bin\Debug\Pr05.ThirdDigit.pdb
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr05.ThirdDigit\obj\Debug\Pr05.ThirdDigit.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr05.ThirdDigit\obj\Debug\Pr05.ThirdDigit.exe
+C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr05.ThirdDigit\obj\Debug\Pr05.ThirdDigit.pdb

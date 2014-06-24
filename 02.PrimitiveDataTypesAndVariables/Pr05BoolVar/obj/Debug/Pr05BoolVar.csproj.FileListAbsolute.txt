@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr05BoolVar\bin\Debug\Pr05BoolVar.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr05BoolVar\bin\Debug\Pr05BoolVar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr05BoolVar\bin\Debug\Pr05BoolVar.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr05BoolVar\obj\Debug\Pr05BoolVar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr05BoolVar\obj\Debug\Pr05BoolVar.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr05BoolVar\bin\Debug\Pr05BoolVar.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr05BoolVar\bin\Debug\Pr05BoolVar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr05BoolVar\bin\Debug\Pr05BoolVar.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr05BoolVar\obj\Debug\Pr05BoolVar.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr05BoolVar\obj\Debug\Pr05BoolVar.pdb

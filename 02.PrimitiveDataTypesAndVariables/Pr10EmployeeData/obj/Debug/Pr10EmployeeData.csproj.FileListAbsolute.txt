@@ -1,0 +1,10 @@
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr10EmployeeData\bin\Debug\Pr10EmployeeData.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr10EmployeeData\bin\Debug\Pr10EmployeeData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr10EmployeeData\bin\Debug\Pr10EmployeeData.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr10EmployeeData\obj\Debug\Pr10EmployeeData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.HomeWork\Pr10EmployeeData\obj\Debug\Pr10EmployeeData.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr10EmployeeData\bin\Debug\Pr10EmployeeData.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr10EmployeeData\bin\Debug\Pr10EmployeeData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr10EmployeeData\bin\Debug\Pr10EmployeeData.pdb
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr10EmployeeData\obj\Debug\Pr10EmployeeData.exe
+C:\Users\Kris\Desktop\C# Basics Course\02.PrimitiveDataTypesAndVariables\Pr10EmployeeData\obj\Debug\Pr10EmployeeData.pdb
