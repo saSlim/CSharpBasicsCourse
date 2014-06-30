@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr08.NumsFrom1ToN\bin\Debug\Pr08.NumsFrom1ToN.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr08.NumsFrom1ToN\bin\Debug\Pr08.NumsFrom1ToN.exe
+E:\C# Basics Course\04.Console InputOutput\Pr08.NumsFrom1ToN\bin\Debug\Pr08.NumsFrom1ToN.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr08.NumsFrom1ToN\obj\Debug\Pr08.NumsFrom1ToN.exe
+E:\C# Basics Course\04.Console InputOutput\Pr08.NumsFrom1ToN\obj\Debug\Pr08.NumsFrom1ToN.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr08.NumsFrom1ToN\obj\Debug\Pr08.NumsFrom1ToN.csprojResolveAssemblyReference.cache

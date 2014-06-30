@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr05.FormatNumbers\bin\Debug\Pr05.FormatNumbers.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr05.FormatNumbers\bin\Debug\Pr05.FormatNumbers.exe
+E:\C# Basics Course\04.Console InputOutput\Pr05.FormatNumbers\bin\Debug\Pr05.FormatNumbers.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr05.FormatNumbers\obj\Debug\Pr05.FormatNumbers.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\04.Console InputOutput\Pr05.FormatNumbers\obj\Debug\Pr05.FormatNumbers.exe
+E:\C# Basics Course\04.Console InputOutput\Pr05.FormatNumbers\obj\Debug\Pr05.FormatNumbers.pdb

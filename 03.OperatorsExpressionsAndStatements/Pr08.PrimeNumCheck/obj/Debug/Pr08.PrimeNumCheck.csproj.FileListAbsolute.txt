@@ -4,3 +4,6 @@ C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr08
 C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr08.PrimeNumCheck\obj\Debug\Pr08.PrimeNumCheck.exe
 C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr08.PrimeNumCheck\obj\Debug\Pr08.PrimeNumCheck.pdb
 C:\Users\Kris\Desktop\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr08.PrimeNumCheck\obj\Debug\Pr08.PrimeNumCheck.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr08.PrimeNumCheck\bin\Debug\Pr08.PrimeNumCheck.exe.config
+E:\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr08.PrimeNumCheck\obj\Debug\Pr08.PrimeNumCheck.exe
+E:\C# Basics Course\03.OperatorsExpressionsAndStatements\Pr08.PrimeNumCheck\obj\Debug\Pr08.PrimeNumCheck.pdb

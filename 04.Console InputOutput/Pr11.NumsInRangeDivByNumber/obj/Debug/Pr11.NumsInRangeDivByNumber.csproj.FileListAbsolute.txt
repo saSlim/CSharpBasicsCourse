@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr11.NumsInRangeDivByNumber\bin\Debug\Pr11.NumsInRangeDivByNumber.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr11.NumsInRangeDivByNumber\bin\Debug\Pr11.NumsInRangeDivByNumber.exe
+E:\C# Basics Course\04.Console InputOutput\Pr11.NumsInRangeDivByNumber\bin\Debug\Pr11.NumsInRangeDivByNumber.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr11.NumsInRangeDivByNumber\obj\Debug\Pr11.NumsInRangeDivByNumber.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\04.Console InputOutput\Pr11.NumsInRangeDivByNumber\obj\Debug\Pr11.NumsInRangeDivByNumber.exe
+E:\C# Basics Course\04.Console InputOutput\Pr11.NumsInRangeDivByNumber\obj\Debug\Pr11.NumsInRangeDivByNumber.pdb

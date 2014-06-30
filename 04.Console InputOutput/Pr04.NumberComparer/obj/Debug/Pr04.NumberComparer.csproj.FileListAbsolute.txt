@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr04.NumberComparer\bin\Debug\Pr04.NumberComparer.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr04.NumberComparer\bin\Debug\Pr04.NumberComparer.exe
+E:\C# Basics Course\04.Console InputOutput\Pr04.NumberComparer\bin\Debug\Pr04.NumberComparer.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr04.NumberComparer\obj\Debug\Pr04.NumberComparer.exe
+E:\C# Basics Course\04.Console InputOutput\Pr04.NumberComparer\obj\Debug\Pr04.NumberComparer.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr04.NumberComparer\obj\Debug\Pr04.NumberComparer.csprojResolveAssemblyReference.cache

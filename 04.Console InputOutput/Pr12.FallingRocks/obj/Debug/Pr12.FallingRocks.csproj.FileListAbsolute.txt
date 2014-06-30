@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr12.FallingRocks\bin\Debug\Pr12.FallingRocks.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr12.FallingRocks\bin\Debug\Pr12.FallingRocks.exe
+E:\C# Basics Course\04.Console InputOutput\Pr12.FallingRocks\bin\Debug\Pr12.FallingRocks.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr12.FallingRocks\obj\Debug\Pr12.FallingRocks.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\04.Console InputOutput\Pr12.FallingRocks\obj\Debug\Pr12.FallingRocks.exe
+E:\C# Basics Course\04.Console InputOutput\Pr12.FallingRocks\obj\Debug\Pr12.FallingRocks.pdb

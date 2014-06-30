@@ -1,0 +1,12 @@
+C:\Users\Kris\Desktop\C# Basics Course\04.Console InputOutput\04.Console InputOutput\obj\Debug\Pr01.SumOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\04.Console InputOutput\04.Console InputOutput\bin\Debug\04.Console InputOutput.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\04.Console InputOutput\04.Console InputOutput\bin\Debug\04.Console InputOutput.exe
+C:\Users\Kris\Desktop\C# Basics Course\04.Console InputOutput\04.Console InputOutput\bin\Debug\04.Console InputOutput.pdb
+C:\Users\Kris\Desktop\C# Basics Course\04.Console InputOutput\04.Console InputOutput\obj\Debug\04.Console InputOutput.exe
+C:\Users\Kris\Desktop\C# Basics Course\04.Console InputOutput\04.Console InputOutput\obj\Debug\04.Console InputOutput.pdb
+E:\C# Basics Course\04.Console InputOutput\04.Console InputOutput\bin\Debug\04.Console InputOutput.exe.config
+E:\C# Basics Course\04.Console InputOutput\04.Console InputOutput\obj\Debug\04.Console InputOutput.exe
+E:\C# Basics Course\04.Console InputOutput\04.Console InputOutput\obj\Debug\04.Console InputOutput.pdb
+E:\C# Basics Course\04.Console InputOutput\04.Console InputOutput\bin\Debug\04.Console InputOutput.exe
+E:\C# Basics Course\04.Console InputOutput\04.Console InputOutput\bin\Debug\04.Console InputOutput.pdb
+E:\C# Basics Course\04.Console InputOutput\04.Console InputOutput\obj\Debug\Pr01.SumOf3Numbers.csprojResolveAssemblyReference.cache

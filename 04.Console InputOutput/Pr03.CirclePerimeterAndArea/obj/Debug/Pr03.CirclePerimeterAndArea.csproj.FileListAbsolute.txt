@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr03.CirclePerimeterAndArea\bin\Debug\Pr03.CirclePerimeterAndArea.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr03.CirclePerimeterAndArea\obj\Debug\Pr03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\04.Console InputOutput\Pr03.CirclePerimeterAndArea\bin\Debug\Pr03.CirclePerimeterAndArea.exe
+E:\C# Basics Course\04.Console InputOutput\Pr03.CirclePerimeterAndArea\bin\Debug\Pr03.CirclePerimeterAndArea.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr03.CirclePerimeterAndArea\obj\Debug\Pr03.CirclePerimeterAndArea.exe
+E:\C# Basics Course\04.Console InputOutput\Pr03.CirclePerimeterAndArea\obj\Debug\Pr03.CirclePerimeterAndArea.pdb

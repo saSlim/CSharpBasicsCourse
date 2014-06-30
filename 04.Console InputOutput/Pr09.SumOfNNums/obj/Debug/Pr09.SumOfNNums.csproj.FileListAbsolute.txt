@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr09.SumOfNNums\bin\Debug\Pr09.SumOfNNums.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr09.SumOfNNums\bin\Debug\Pr09.SumOfNNums.exe
+E:\C# Basics Course\04.Console InputOutput\Pr09.SumOfNNums\bin\Debug\Pr09.SumOfNNums.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr09.SumOfNNums\obj\Debug\Pr09.SumOfNNums.exe
+E:\C# Basics Course\04.Console InputOutput\Pr09.SumOfNNums\obj\Debug\Pr09.SumOfNNums.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr09.SumOfNNums\obj\Debug\Pr09.SumOfNNums.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr07.SumOf5Nums\bin\Debug\Pr07.SumOf5Nums.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr07.SumOf5Nums\obj\Debug\Pr07.SumOf5Nums.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\04.Console InputOutput\Pr07.SumOf5Nums\bin\Debug\Pr07.SumOf5Nums.exe
+E:\C# Basics Course\04.Console InputOutput\Pr07.SumOf5Nums\bin\Debug\Pr07.SumOf5Nums.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr07.SumOf5Nums\obj\Debug\Pr07.SumOf5Nums.exe
+E:\C# Basics Course\04.Console InputOutput\Pr07.SumOf5Nums\obj\Debug\Pr07.SumOf5Nums.pdb

@@ -1,0 +1,6 @@
+E:\C# Basics Course\04.Console InputOutput\Pr10.FibonaciNums\obj\Debug\Pr10.FibonacciNums.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\04.Console InputOutput\Pr10.FibonaciNums\bin\Debug\Pr10.FibonaciNums.exe.config
+E:\C# Basics Course\04.Console InputOutput\Pr10.FibonaciNums\bin\Debug\Pr10.FibonaciNums.exe
+E:\C# Basics Course\04.Console InputOutput\Pr10.FibonaciNums\bin\Debug\Pr10.FibonaciNums.pdb
+E:\C# Basics Course\04.Console InputOutput\Pr10.FibonaciNums\obj\Debug\Pr10.FibonaciNums.exe
+E:\C# Basics Course\04.Console InputOutput\Pr10.FibonaciNums\obj\Debug\Pr10.FibonaciNums.pdb
