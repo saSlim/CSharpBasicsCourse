@@ -374,11 +374,8 @@ namespace Pr12.FallingRocks
                 PrintInfo(playfield + 3, 6, "'L'= new life :)", ConsoleColor.Green);
                 PrintInfo(playfield + 3, 7, " and 100 points", ConsoleColor.Green);
 
-
                 Thread.Sleep(speed);
             }
-
-
 
         }
     }

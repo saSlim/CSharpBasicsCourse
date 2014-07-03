@@ -38,7 +38,7 @@ namespace Pr05.FormatNumbers
             double.TryParse(Console.ReadLine(), out c);
 
 
-            Console.WriteLine("|{0,-10:X}|{1,-10:0}|{2,10:0.##}|{3,-10:0.###}|", a, Convert.ToString(a, 2).PadLeft(10,'0'), b, c);
+            Console.WriteLine("|{0,-10:X}|{1,-10:0}|{2,10:0.00}|{3,-10:0.000}|", a, Convert.ToString(a, 2).PadLeft(10,'0'), b, c);
 
         }
     }
