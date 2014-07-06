@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr04.MultiplicationSign\bin\Debug\Pr04.MultiplicationSign.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr04.MultiplicationSign\bin\Debug\Pr04.MultiplicationSign.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr04.MultiplicationSign\bin\Debug\Pr04.MultiplicationSign.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr04.MultiplicationSign\obj\Debug\Pr04.MultiplicationSign.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr04.MultiplicationSign\obj\Debug\Pr04.MultiplicationSign.pdb

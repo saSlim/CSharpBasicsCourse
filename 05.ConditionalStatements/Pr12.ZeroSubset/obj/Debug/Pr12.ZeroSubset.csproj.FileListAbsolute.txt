@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr12.ZeroSubset\bin\Debug\Pr12.ZeroSubset.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr12.ZeroSubset\bin\Debug\Pr12.ZeroSubset.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr12.ZeroSubset\bin\Debug\Pr12.ZeroSubset.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr12.ZeroSubset\obj\Debug\Pr12.ZeroSubset.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr12.ZeroSubset\obj\Debug\Pr12.ZeroSubset.pdb

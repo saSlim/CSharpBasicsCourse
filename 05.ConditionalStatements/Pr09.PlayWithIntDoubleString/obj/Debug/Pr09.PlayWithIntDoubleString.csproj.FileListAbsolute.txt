@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr09.PlayWithIntDoubleString\bin\Debug\Pr09.PlayWithIntDoubleString.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr09.PlayWithIntDoubleString\bin\Debug\Pr09.PlayWithIntDoubleString.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr09.PlayWithIntDoubleString\bin\Debug\Pr09.PlayWithIntDoubleString.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr09.PlayWithIntDoubleString\obj\Debug\Pr09.PlayWithIntDoubleString.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr09.PlayWithIntDoubleString\obj\Debug\Pr09.PlayWithIntDoubleString.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr09.PlayWithIntDoubleString\obj\Debug\Pr09.PlayWithIntDoubleString.pdb

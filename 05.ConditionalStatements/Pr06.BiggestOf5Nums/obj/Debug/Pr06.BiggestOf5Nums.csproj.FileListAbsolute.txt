@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr06.BiggestOf5Nums\bin\Debug\Pr06.BiggestOf5Nums.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr06.BiggestOf5Nums\bin\Debug\Pr06.BiggestOf5Nums.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr06.BiggestOf5Nums\bin\Debug\Pr06.BiggestOf5Nums.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr06.BiggestOf5Nums\obj\Debug\Pr06.BiggestOf5Nums.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr06.BiggestOf5Nums\obj\Debug\Pr06.BiggestOf5Nums.pdb

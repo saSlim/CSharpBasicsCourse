@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr11.NumberAsWords\bin\Debug\Pr11.NumberAsWords.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr11.NumberAsWords\obj\Debug\Pr11.NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr11.NumberAsWords\bin\Debug\Pr11.NumberAsWords.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr11.NumberAsWords\bin\Debug\Pr11.NumberAsWords.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr11.NumberAsWords\obj\Debug\Pr11.NumberAsWords.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr11.NumberAsWords\obj\Debug\Pr11.NumberAsWords.pdb

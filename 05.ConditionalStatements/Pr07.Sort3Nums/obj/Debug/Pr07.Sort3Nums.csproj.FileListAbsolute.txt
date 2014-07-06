@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr07.Sort3Nums\bin\Debug\Pr07.Sort3Nums.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr07.Sort3Nums\bin\Debug\Pr07.Sort3Nums.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr07.Sort3Nums\bin\Debug\Pr07.Sort3Nums.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr07.Sort3Nums\obj\Debug\Pr07.Sort3Nums.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr07.Sort3Nums\obj\Debug\Pr07.Sort3Nums.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr07.Sort3Nums\obj\Debug\Pr07.Sort3Nums.pdb

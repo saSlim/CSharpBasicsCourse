@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\05.ConditionalStatements\bin\Debug\05.ConditionalStatements.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\05.ConditionalStatements\bin\Debug\05.ConditionalStatements.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\05.ConditionalStatements\bin\Debug\05.ConditionalStatements.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\05.ConditionalStatements\obj\Debug\Pr01.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\05.ConditionalStatements\obj\Debug\05.ConditionalStatements.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\05.ConditionalStatements\obj\Debug\05.ConditionalStatements.pdb

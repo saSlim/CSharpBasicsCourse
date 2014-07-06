@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr03.CheckForPlayCard\bin\Debug\Pr03.CheckForPlayCard.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr03.CheckForPlayCard\bin\Debug\Pr03.CheckForPlayCard.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr03.CheckForPlayCard\bin\Debug\Pr03.CheckForPlayCard.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr03.CheckForPlayCard\obj\Debug\Pr03.CheckForPlayCard.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr03.CheckForPlayCard\obj\Debug\Pr03.CheckForPlayCard.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr03.CheckForPlayCard\obj\Debug\Pr03.CheckForPlayCard.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr08.DigitAsWord\bin\Debug\Pr08.DigitAsWord.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr08.DigitAsWord\bin\Debug\Pr08.DigitAsWord.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr08.DigitAsWord\bin\Debug\Pr08.DigitAsWord.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr08.DigitAsWord\obj\Debug\Pr08.DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr08.DigitAsWord\obj\Debug\Pr08.DigitAsWord.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr08.DigitAsWord\obj\Debug\Pr08.DigitAsWord.pdb

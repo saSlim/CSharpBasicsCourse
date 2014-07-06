@@ -1,0 +1,5 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr05.BiggestOf3Nums\bin\Debug\Pr05.BiggestOf3Nums.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr05.BiggestOf3Nums\bin\Debug\Pr05.BiggestOf3Nums.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr05.BiggestOf3Nums\bin\Debug\Pr05.BiggestOf3Nums.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr05.BiggestOf3Nums\obj\Debug\Pr05.BiggestOf3Nums.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr05.BiggestOf3Nums\obj\Debug\Pr05.BiggestOf3Nums.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr02.BonusScore\bin\Debug\Pr02.BonusScore.exe.config
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr02.BonusScore\bin\Debug\Pr02.BonusScore.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr02.BonusScore\bin\Debug\Pr02.BonusScore.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr02.BonusScore\obj\Debug\Pr02.BonusScore.exe
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr02.BonusScore\obj\Debug\Pr02.BonusScore.pdb
+C:\Users\Kris\Desktop\C# Basics Course\05.ConditionalStatements\Pr02.BonusScore\obj\Debug\Pr02.BonusScore.csprojResolveAssemblyReference.cache
