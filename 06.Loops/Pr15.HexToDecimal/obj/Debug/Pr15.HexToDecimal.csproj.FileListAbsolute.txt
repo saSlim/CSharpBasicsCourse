@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr15.HexToDecimal\bin\Debug\Pr15.HexToDecimal.exe.config
+E:\C# Basics Course\06.Loops\Pr15.HexToDecimal\bin\Debug\Pr15.HexToDecimal.exe
+E:\C# Basics Course\06.Loops\Pr15.HexToDecimal\bin\Debug\Pr15.HexToDecimal.pdb
+E:\C# Basics Course\06.Loops\Pr15.HexToDecimal\obj\Debug\Pr15.HexToDecimal.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr15.HexToDecimal\obj\Debug\Pr15.HexToDecimal.exe
+E:\C# Basics Course\06.Loops\Pr15.HexToDecimal\obj\Debug\Pr15.HexToDecimal.pdb

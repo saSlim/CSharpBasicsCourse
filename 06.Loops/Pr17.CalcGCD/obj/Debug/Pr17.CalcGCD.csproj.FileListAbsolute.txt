@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr17.CalcGCD\bin\Debug\Pr17.CalcGCD.exe.config
+E:\C# Basics Course\06.Loops\Pr17.CalcGCD\bin\Debug\Pr17.CalcGCD.exe
+E:\C# Basics Course\06.Loops\Pr17.CalcGCD\bin\Debug\Pr17.CalcGCD.pdb
+E:\C# Basics Course\06.Loops\Pr17.CalcGCD\obj\Debug\Pr17.CalcGCD.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr17.CalcGCD\obj\Debug\Pr17.CalcGCD.exe
+E:\C# Basics Course\06.Loops\Pr17.CalcGCD\obj\Debug\Pr17.CalcGCD.pdb

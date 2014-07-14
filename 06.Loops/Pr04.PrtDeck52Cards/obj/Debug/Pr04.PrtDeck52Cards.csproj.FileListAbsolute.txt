@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr04.PrtDeck52Cards\bin\Debug\Pr04.PrtDeck52Cards.exe.config
+E:\C# Basics Course\06.Loops\Pr04.PrtDeck52Cards\bin\Debug\Pr04.PrtDeck52Cards.exe
+E:\C# Basics Course\06.Loops\Pr04.PrtDeck52Cards\bin\Debug\Pr04.PrtDeck52Cards.pdb
+E:\C# Basics Course\06.Loops\Pr04.PrtDeck52Cards\obj\Debug\Pr04.PrtDeck52Cards.exe
+E:\C# Basics Course\06.Loops\Pr04.PrtDeck52Cards\obj\Debug\Pr04.PrtDeck52Cards.pdb
+E:\C# Basics Course\06.Loops\Pr04.PrtDeck52Cards\obj\Debug\Pr04.PrtDeck52Cards.csprojResolveAssemblyReference.cache

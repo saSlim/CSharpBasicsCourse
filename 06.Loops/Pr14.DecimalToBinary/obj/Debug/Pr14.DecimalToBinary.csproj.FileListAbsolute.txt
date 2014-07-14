@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr14.DecimalToBinary\bin\Debug\Pr14.DecimalToBinary.exe.config
+E:\C# Basics Course\06.Loops\Pr14.DecimalToBinary\bin\Debug\Pr14.DecimalToBinary.exe
+E:\C# Basics Course\06.Loops\Pr14.DecimalToBinary\bin\Debug\Pr14.DecimalToBinary.pdb
+E:\C# Basics Course\06.Loops\Pr14.DecimalToBinary\obj\Debug\Pr14.DecimalToBinary.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr14.DecimalToBinary\obj\Debug\Pr14.DecimalToBinary.exe
+E:\C# Basics Course\06.Loops\Pr14.DecimalToBinary\obj\Debug\Pr14.DecimalToBinary.pdb

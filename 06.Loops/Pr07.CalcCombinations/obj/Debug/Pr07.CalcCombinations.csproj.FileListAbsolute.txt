@@ -1,0 +1,5 @@
+E:\C# Basics Course\06.Loops\Pr07.CalcCombinations\bin\Debug\Pr07.CalcCombinations.exe.config
+E:\C# Basics Course\06.Loops\Pr07.CalcCombinations\bin\Debug\Pr07.CalcCombinations.exe
+E:\C# Basics Course\06.Loops\Pr07.CalcCombinations\bin\Debug\Pr07.CalcCombinations.pdb
+E:\C# Basics Course\06.Loops\Pr07.CalcCombinations\obj\Debug\Pr07.CalcCombinations.exe
+E:\C# Basics Course\06.Loops\Pr07.CalcCombinations\obj\Debug\Pr07.CalcCombinations.pdb

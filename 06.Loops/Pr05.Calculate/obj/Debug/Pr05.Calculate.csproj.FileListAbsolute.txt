@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr05.Calculate\bin\Debug\Pr05.Calculate.exe.config
+E:\C# Basics Course\06.Loops\Pr05.Calculate\bin\Debug\Pr05.Calculate.exe
+E:\C# Basics Course\06.Loops\Pr05.Calculate\bin\Debug\Pr05.Calculate.pdb
+E:\C# Basics Course\06.Loops\Pr05.Calculate\obj\Debug\Pr05.Calculate.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr05.Calculate\obj\Debug\Pr05.Calculate.exe
+E:\C# Basics Course\06.Loops\Pr05.Calculate\obj\Debug\Pr05.Calculate.pdb

@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr08.CatalanNums\bin\Debug\Pr08.CatalanNums.exe.config
+E:\C# Basics Course\06.Loops\Pr08.CatalanNums\obj\Debug\Pr08.CatalanNums.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr08.CatalanNums\bin\Debug\Pr08.CatalanNums.exe
+E:\C# Basics Course\06.Loops\Pr08.CatalanNums\bin\Debug\Pr08.CatalanNums.pdb
+E:\C# Basics Course\06.Loops\Pr08.CatalanNums\obj\Debug\Pr08.CatalanNums.exe
+E:\C# Basics Course\06.Loops\Pr08.CatalanNums\obj\Debug\Pr08.CatalanNums.pdb

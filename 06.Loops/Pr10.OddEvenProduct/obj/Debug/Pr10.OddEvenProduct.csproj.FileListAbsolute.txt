@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr10.OddEvenProduct\bin\Debug\Pr10.OddEvenProduct.exe.config
+E:\C# Basics Course\06.Loops\Pr10.OddEvenProduct\bin\Debug\Pr10.OddEvenProduct.exe
+E:\C# Basics Course\06.Loops\Pr10.OddEvenProduct\bin\Debug\Pr10.OddEvenProduct.pdb
+E:\C# Basics Course\06.Loops\Pr10.OddEvenProduct\obj\Debug\Pr10.OddEvenProduct.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr10.OddEvenProduct\obj\Debug\Pr10.OddEvenProduct.exe
+E:\C# Basics Course\06.Loops\Pr10.OddEvenProduct\obj\Debug\Pr10.OddEvenProduct.pdb

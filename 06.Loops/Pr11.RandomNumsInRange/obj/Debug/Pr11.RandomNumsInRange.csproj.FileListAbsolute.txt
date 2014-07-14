@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr11.RandomNumsInRange\bin\Debug\Pr11.RandomNumsInRange.exe.config
+E:\C# Basics Course\06.Loops\Pr11.RandomNumsInRange\obj\Debug\Pr11.RandomNumsInRange.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr11.RandomNumsInRange\bin\Debug\Pr11.RandomNumsInRange.exe
+E:\C# Basics Course\06.Loops\Pr11.RandomNumsInRange\bin\Debug\Pr11.RandomNumsInRange.pdb
+E:\C# Basics Course\06.Loops\Pr11.RandomNumsInRange\obj\Debug\Pr11.RandomNumsInRange.exe
+E:\C# Basics Course\06.Loops\Pr11.RandomNumsInRange\obj\Debug\Pr11.RandomNumsInRange.pdb

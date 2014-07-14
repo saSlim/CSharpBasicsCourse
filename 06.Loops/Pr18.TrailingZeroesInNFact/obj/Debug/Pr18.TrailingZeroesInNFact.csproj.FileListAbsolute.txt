@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr18.TrailingZeroesInNFact\bin\Debug\Pr18.TrailingZeroesInNFact.exe.config
+E:\C# Basics Course\06.Loops\Pr18.TrailingZeroesInNFact\bin\Debug\Pr18.TrailingZeroesInNFact.exe
+E:\C# Basics Course\06.Loops\Pr18.TrailingZeroesInNFact\bin\Debug\Pr18.TrailingZeroesInNFact.pdb
+E:\C# Basics Course\06.Loops\Pr18.TrailingZeroesInNFact\obj\Debug\Pr18.TrailingZeroesInNFact.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr18.TrailingZeroesInNFact\obj\Debug\Pr18.TrailingZeroesInNFact.exe
+E:\C# Basics Course\06.Loops\Pr18.TrailingZeroesInNFact\obj\Debug\Pr18.TrailingZeroesInNFact.pdb

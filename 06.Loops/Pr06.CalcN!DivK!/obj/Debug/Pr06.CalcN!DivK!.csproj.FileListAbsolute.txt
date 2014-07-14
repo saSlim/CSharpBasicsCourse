@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr06.CalcN!DivK!\bin\Debug\Pr06.CalcN!DivK!.exe.config
+E:\C# Basics Course\06.Loops\Pr06.CalcN!DivK!\bin\Debug\Pr06.CalcN!DivK!.exe
+E:\C# Basics Course\06.Loops\Pr06.CalcN!DivK!\bin\Debug\Pr06.CalcN!DivK!.pdb
+E:\C# Basics Course\06.Loops\Pr06.CalcN!DivK!\obj\Debug\Pr06.CalcN!DivK!.exe
+E:\C# Basics Course\06.Loops\Pr06.CalcN!DivK!\obj\Debug\Pr06.CalcN!DivK!.pdb
+E:\C# Basics Course\06.Loops\Pr06.CalcN!DivK!\obj\Debug\Pr06.CalcN!DivK!.csprojResolveAssemblyReference.cache

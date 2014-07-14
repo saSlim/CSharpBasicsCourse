@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr09.MatrixOfNums\bin\Debug\Pr09.MatrixOfNums.exe.config
+E:\C# Basics Course\06.Loops\Pr09.MatrixOfNums\bin\Debug\Pr09.MatrixOfNums.exe
+E:\C# Basics Course\06.Loops\Pr09.MatrixOfNums\bin\Debug\Pr09.MatrixOfNums.pdb
+E:\C# Basics Course\06.Loops\Pr09.MatrixOfNums\obj\Debug\Pr09.MatrixOfNums.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr09.MatrixOfNums\obj\Debug\Pr09.MatrixOfNums.exe
+E:\C# Basics Course\06.Loops\Pr09.MatrixOfNums\obj\Debug\Pr09.MatrixOfNums.pdb

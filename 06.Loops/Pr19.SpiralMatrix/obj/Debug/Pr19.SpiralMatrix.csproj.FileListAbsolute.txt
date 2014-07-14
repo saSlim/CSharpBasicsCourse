@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr19.SpiralMatrix\bin\Debug\Pr19.SpiralMatrix.exe.config
+E:\C# Basics Course\06.Loops\Pr19.SpiralMatrix\bin\Debug\Pr19.SpiralMatrix.exe
+E:\C# Basics Course\06.Loops\Pr19.SpiralMatrix\bin\Debug\Pr19.SpiralMatrix.pdb
+E:\C# Basics Course\06.Loops\Pr19.SpiralMatrix\obj\Debug\Pr19.SpiralMatrix.exe
+E:\C# Basics Course\06.Loops\Pr19.SpiralMatrix\obj\Debug\Pr19.SpiralMatrix.pdb
+E:\C# Basics Course\06.Loops\Pr19.SpiralMatrix\obj\Debug\Pr19.SpiralMatrix.csprojResolveAssemblyReference.cache

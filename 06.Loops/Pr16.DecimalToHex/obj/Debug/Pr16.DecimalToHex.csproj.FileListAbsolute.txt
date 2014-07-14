@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr16.DecimalToHex\bin\Debug\Pr16.DecimalToHex.exe.config
+E:\C# Basics Course\06.Loops\Pr16.DecimalToHex\obj\Debug\Pr16.DecimalToHex.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr16.DecimalToHex\bin\Debug\Pr16.DecimalToHex.exe
+E:\C# Basics Course\06.Loops\Pr16.DecimalToHex\bin\Debug\Pr16.DecimalToHex.pdb
+E:\C# Basics Course\06.Loops\Pr16.DecimalToHex\obj\Debug\Pr16.DecimalToHex.exe
+E:\C# Basics Course\06.Loops\Pr16.DecimalToHex\obj\Debug\Pr16.DecimalToHex.pdb

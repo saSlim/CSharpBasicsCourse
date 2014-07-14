@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr03.MinMaxSumAvgOfNNums\bin\Debug\Pr03.MinMaxSumAvgOfNNums.exe.config
+E:\C# Basics Course\06.Loops\Pr03.MinMaxSumAvgOfNNums\bin\Debug\Pr03.MinMaxSumAvgOfNNums.exe
+E:\C# Basics Course\06.Loops\Pr03.MinMaxSumAvgOfNNums\bin\Debug\Pr03.MinMaxSumAvgOfNNums.pdb
+E:\C# Basics Course\06.Loops\Pr03.MinMaxSumAvgOfNNums\obj\Debug\Pr03.MinMaxSumAvgOfNNums.exe
+E:\C# Basics Course\06.Loops\Pr03.MinMaxSumAvgOfNNums\obj\Debug\Pr03.MinMaxSumAvgOfNNums.pdb
+E:\C# Basics Course\06.Loops\Pr03.MinMaxSumAvgOfNNums\obj\Debug\Pr03.MinMaxSumAvgOfNNums.csprojResolveAssemblyReference.cache

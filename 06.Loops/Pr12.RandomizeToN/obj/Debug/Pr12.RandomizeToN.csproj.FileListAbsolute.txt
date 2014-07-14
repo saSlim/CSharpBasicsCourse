@@ -1,0 +1,6 @@
+E:\C# Basics Course\06.Loops\Pr12.RandomizeToN\bin\Debug\Pr12.RandomizeToN.exe.config
+E:\C# Basics Course\06.Loops\Pr12.RandomizeToN\bin\Debug\Pr12.RandomizeToN.exe
+E:\C# Basics Course\06.Loops\Pr12.RandomizeToN\bin\Debug\Pr12.RandomizeToN.pdb
+E:\C# Basics Course\06.Loops\Pr12.RandomizeToN\obj\Debug\Pr12.RandomizeToN.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\06.Loops\Pr12.RandomizeToN\obj\Debug\Pr12.RandomizeToN.exe
+E:\C# Basics Course\06.Loops\Pr12.RandomizeToN\obj\Debug\Pr12.RandomizeToN.pdb
