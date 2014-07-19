@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\07.AdvancedTopics\bin\Debug\07.AdvancedTopics.exe.config
+E:\C# Basics Course\07.AdvancedTopics\07.AdvancedTopics\bin\Debug\07.AdvancedTopics.exe
+E:\C# Basics Course\07.AdvancedTopics\07.AdvancedTopics\bin\Debug\07.AdvancedTopics.pdb
+E:\C# Basics Course\07.AdvancedTopics\07.AdvancedTopics\obj\Debug\Pr01.FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\07.AdvancedTopics\obj\Debug\07.AdvancedTopics.exe
+E:\C# Basics Course\07.AdvancedTopics\07.AdvancedTopics\obj\Debug\07.AdvancedTopics.pdb

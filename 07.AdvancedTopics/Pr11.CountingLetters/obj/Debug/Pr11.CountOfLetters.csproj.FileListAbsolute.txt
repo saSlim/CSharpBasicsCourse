@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr11.CountingLetters\bin\Debug\Pr11.CountingLetters.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr11.CountingLetters\bin\Debug\Pr11.CountingLetters.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr11.CountingLetters\bin\Debug\Pr11.CountingLetters.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr11.CountingLetters\obj\Debug\Pr11.CountingLetters.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr11.CountingLetters\obj\Debug\Pr11.CountingLetters.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr11.CountingLetters\obj\Debug\Pr11.CountOfLetters.csprojResolveAssemblyReference.cache

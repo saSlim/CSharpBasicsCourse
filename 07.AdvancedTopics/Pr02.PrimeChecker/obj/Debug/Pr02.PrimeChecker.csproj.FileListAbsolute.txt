@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr02.PrimeChecker\bin\Debug\Pr02.PrimeChecker.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr02.PrimeChecker\bin\Debug\Pr02.PrimeChecker.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr02.PrimeChecker\bin\Debug\Pr02.PrimeChecker.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr02.PrimeChecker\obj\Debug\Pr02.PrimeChecker.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr02.PrimeChecker\obj\Debug\Pr02.PrimeChecker.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr02.PrimeChecker\obj\Debug\Pr02.PrimeChecker.csprojResolveAssemblyReference.cache

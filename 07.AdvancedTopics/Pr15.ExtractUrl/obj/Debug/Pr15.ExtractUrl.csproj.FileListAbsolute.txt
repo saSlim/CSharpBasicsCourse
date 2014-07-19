@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr15.ExtractUrl\bin\Debug\Pr15.ExtractUrl.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr15.ExtractUrl\bin\Debug\Pr15.ExtractUrl.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr15.ExtractUrl\bin\Debug\Pr15.ExtractUrl.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr15.ExtractUrl\obj\Debug\Pr15.ExtractUrl.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr15.ExtractUrl\obj\Debug\Pr15.ExtractUrl.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr15.ExtractUrl\obj\Debug\Pr15.ExtractUrl.csprojResolveAssemblyReference.cache

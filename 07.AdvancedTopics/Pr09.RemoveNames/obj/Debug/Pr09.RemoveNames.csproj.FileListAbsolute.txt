@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr09.RemoveNames\bin\Debug\Pr09.RemoveNames.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr09.RemoveNames\bin\Debug\Pr09.RemoveNames.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr09.RemoveNames\bin\Debug\Pr09.RemoveNames.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr09.RemoveNames\obj\Debug\Pr09.RemoveNames.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\Pr09.RemoveNames\obj\Debug\Pr09.RemoveNames.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr09.RemoveNames\obj\Debug\Pr09.RemoveNames.pdb

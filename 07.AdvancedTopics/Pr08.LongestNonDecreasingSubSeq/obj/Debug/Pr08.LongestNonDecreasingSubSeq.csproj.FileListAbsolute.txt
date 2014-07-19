@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr08.LongestNonDecreasingSubSeq\bin\Debug\Pr08.LongestNonDecreasingSubSeq.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr08.LongestNonDecreasingSubSeq\bin\Debug\Pr08.LongestNonDecreasingSubSeq.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr08.LongestNonDecreasingSubSeq\bin\Debug\Pr08.LongestNonDecreasingSubSeq.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr08.LongestNonDecreasingSubSeq\obj\Debug\Pr08.LongestNonDecreasingSubSeq.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\Pr08.LongestNonDecreasingSubSeq\obj\Debug\Pr08.LongestNonDecreasingSubSeq.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr08.LongestNonDecreasingSubSeq\obj\Debug\Pr08.LongestNonDecreasingSubSeq.pdb

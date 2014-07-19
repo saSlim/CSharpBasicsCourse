@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr07.MatrixOfPalindromes\bin\Debug\Pr07.MatrixOfPalindromes.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr07.MatrixOfPalindromes\obj\Debug\Pr07.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\Pr07.MatrixOfPalindromes\bin\Debug\Pr07.MatrixOfPalindromes.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr07.MatrixOfPalindromes\bin\Debug\Pr07.MatrixOfPalindromes.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr07.MatrixOfPalindromes\obj\Debug\Pr07.MatrixOfPalindromes.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr07.MatrixOfPalindromes\obj\Debug\Pr07.MatrixOfPalindromes.pdb

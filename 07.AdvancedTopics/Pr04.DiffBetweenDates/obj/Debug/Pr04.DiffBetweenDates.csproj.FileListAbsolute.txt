@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr04.DiffBetweenDates\bin\Debug\Pr04.DiffBetweenDates.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr04.DiffBetweenDates\bin\Debug\Pr04.DiffBetweenDates.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr04.DiffBetweenDates\bin\Debug\Pr04.DiffBetweenDates.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr04.DiffBetweenDates\obj\Debug\Pr04.DiffBetweenDates.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\Pr04.DiffBetweenDates\obj\Debug\Pr04.DiffBetweenDates.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr04.DiffBetweenDates\obj\Debug\Pr04.DiffBetweenDates.pdb

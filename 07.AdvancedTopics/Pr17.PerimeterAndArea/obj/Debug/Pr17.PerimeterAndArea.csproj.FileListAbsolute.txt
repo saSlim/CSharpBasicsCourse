@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr17.PerimeterAndArea\bin\Debug\Pr17.PerimeterAndArea.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr17.PerimeterAndArea\bin\Debug\Pr17.PerimeterAndArea.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr17.PerimeterAndArea\bin\Debug\Pr17.PerimeterAndArea.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr17.PerimeterAndArea\obj\Debug\Pr17.PerimeterAndArea.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr17.PerimeterAndArea\obj\Debug\Pr17.PerimeterAndArea.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr17.PerimeterAndArea\obj\Debug\Pr17.PerimeterAndArea.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr10.JoinLists\bin\Debug\Pr10.JoinLists.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr10.JoinLists\bin\Debug\Pr10.JoinLists.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr10.JoinLists\bin\Debug\Pr10.JoinLists.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr10.JoinLists\obj\Debug\Pr10.JoinLists.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr10.JoinLists\obj\Debug\Pr10.JoinLists.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr10.JoinLists\obj\Debug\Pr10.JoinLists.csprojResolveAssemblyReference.cache

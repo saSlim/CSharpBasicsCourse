@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr14.LongestWord\bin\Debug\Pr14.LongestWord.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr14.LongestWord\bin\Debug\Pr14.LongestWord.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr14.LongestWord\bin\Debug\Pr14.LongestWord.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr14.LongestWord\obj\Debug\Pr14.LongestWord.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\Pr14.LongestWord\obj\Debug\Pr14.LongestWord.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr14.LongestWord\obj\Debug\Pr14.LongestWord.pdb

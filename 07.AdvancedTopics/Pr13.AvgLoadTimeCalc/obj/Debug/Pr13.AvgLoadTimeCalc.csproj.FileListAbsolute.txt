@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr13.AvgLoadTimeCalc\bin\Debug\Pr13.AvgLoadTimeCalc.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr13.AvgLoadTimeCalc\bin\Debug\Pr13.AvgLoadTimeCalc.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr13.AvgLoadTimeCalc\bin\Debug\Pr13.AvgLoadTimeCalc.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr13.AvgLoadTimeCalc\obj\Debug\Pr13.AvgLoadTimeCalc.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\Pr13.AvgLoadTimeCalc\obj\Debug\Pr13.AvgLoadTimeCalc.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr13.AvgLoadTimeCalc\obj\Debug\Pr13.AvgLoadTimeCalc.pdb

@@ -1,0 +1,5 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr12.CountOfNames\bin\Debug\Pr12.CountOfNames.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr12.CountOfNames\bin\Debug\Pr12.CountOfNames.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr12.CountOfNames\bin\Debug\Pr12.CountOfNames.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr12.CountOfNames\obj\Debug\Pr12.CountOfNames.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr12.CountOfNames\obj\Debug\Pr12.CountOfNames.pdb

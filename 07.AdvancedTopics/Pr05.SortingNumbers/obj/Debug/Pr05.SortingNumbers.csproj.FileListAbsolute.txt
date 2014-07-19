@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr05.SortingNumbers\bin\Debug\Pr05.SortingNumbers.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr05.SortingNumbers\bin\Debug\Pr05.SortingNumbers.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr05.SortingNumbers\bin\Debug\Pr05.SortingNumbers.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr05.SortingNumbers\obj\Debug\Pr05.SortingNumbers.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr05.SortingNumbers\obj\Debug\Pr05.SortingNumbers.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr05.SortingNumbers\obj\Debug\Pr05.SortingNumbers.csprojResolveAssemblyReference.cache

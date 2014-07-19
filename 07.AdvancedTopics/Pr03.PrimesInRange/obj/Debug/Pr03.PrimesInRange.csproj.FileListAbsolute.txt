@@ -1,0 +1,6 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr03.PrimesInRange\bin\Debug\Pr03.PrimesInRange.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr03.PrimesInRange\bin\Debug\Pr03.PrimesInRange.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr03.PrimesInRange\bin\Debug\Pr03.PrimesInRange.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr03.PrimesInRange\obj\Debug\Pr03.PrimesInRange.csprojResolveAssemblyReference.cache
+E:\C# Basics Course\07.AdvancedTopics\Pr03.PrimesInRange\obj\Debug\Pr03.PrimesInRange.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr03.PrimesInRange\obj\Debug\Pr03.PrimesInRange.pdb

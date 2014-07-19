@@ -1,0 +1,1 @@
+E:\C# Basics Course\07.AdvancedTopics\07.AdvancedTopics\bin\Debug\07.AdvancedTopics.exe.config

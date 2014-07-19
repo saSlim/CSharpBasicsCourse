@@ -1,0 +1,5 @@
+E:\C# Basics Course\07.AdvancedTopics\Pr16.CountWordInTxt\bin\Debug\Pr16.CountWordInTxt.exe.config
+E:\C# Basics Course\07.AdvancedTopics\Pr16.CountWordInTxt\bin\Debug\Pr16.CountWordInTxt.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr16.CountWordInTxt\bin\Debug\Pr16.CountWordInTxt.pdb
+E:\C# Basics Course\07.AdvancedTopics\Pr16.CountWordInTxt\obj\Debug\Pr16.CountWordInTxt.exe
+E:\C# Basics Course\07.AdvancedTopics\Pr16.CountWordInTxt\obj\Debug\Pr16.CountWordInTxt.pdb
